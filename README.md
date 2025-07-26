@@ -1,15 +1,39 @@
-#Setup guide
-1.Clone the repository
-2.Create a Virtual Environment
-3.Install Dependencies
-4.Give OpenAI API Key
-5.Run the script on Google Collab
+# Setup guide
+- Clone the repository 
+- Create a Virtual Environment
+- Install Dependencies
+- Give OpenAI API Key
+- Run the script on Google Collab
 
-#Tools:Google Collab
+# Tools:
+Google Collab
 
-#Libraries:HuggenFaceEmbeddings, FAISS,RetrievalQA,ChatOpenAI,ContextualCompressionRetriever,LLMChainExtractor,ConversationBufferMemory,ConversationalRetrievalChain,pytesseract,PromptTemplate
+# Libraries:
+- HuggenFaceEmbeddings
+- FAISS
+- RetrievalQA 
+- ChatOpenAI
+- ContextualCompressionRetriever
+- LLMChainExtractor
+- ConversationBufferMemory
+- ConversationalRetrievalChain
+- pytesseract
+- PromptTemplate
 
-#Packages:langchain,langchain_community,langchain_core,transformers, sentence_transformers, pypdf, faiss_cpu,gdown.
+# Packages:
+- langchain
+- langchain_community
+- langchain_core
+- transformers
+- sentence_transformers
+- pypdf
+- faiss_cpu
+- gdown.
+
+# Output
+![Demo Answer](image.png)
+
+# QnA
 
 #Q-1:What method or library did you use to extract the text, and why? Did you face 
 any formatting challenges with the PDF content? 
